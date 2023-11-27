@@ -560,6 +560,6 @@ INSERT INTO `VideoAds_keywords` (videoAdsID, VIDEOADSkeywords, times) VALUES
 ('video141', 'eating', 308535),
 ('video142', 'eating', 308536),
 ('video143', 'car', 10228),
-('video144', 'shubu', 7782);
+('video144', 'shabu', 7782);
 
 
